@@ -1,7 +1,7 @@
 # Console-calculator
 
 
-this is a console based calculator that performs basic arithmetic.
+This is a console based calculator that performs basic arithmetic.
 
 
 ## Contributing
